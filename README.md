@@ -13,7 +13,7 @@ This repository contains code to train and evaluate a YOLOv11 object detection m
 
 ---
 
-##Requirements
+## 📌 Requirements
 - ✅ultralytics
 - ✅opencv-python
 - ✅roboflow
