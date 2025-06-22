@@ -18,6 +18,7 @@ This repository contains code to train and evaluate a YOLOv11 object detection m
 - ✅opencv-python
 - ✅roboflow
 
+## 📌 Example results
 ![organicResult](https://github.com/user-attachments/assets/3648674c-eb9b-4c07-a381-0210a19f1d1e)
 ![paperResult](https://github.com/user-attachments/assets/9000ae8f-a36c-44ce-8c8a-ad754b89414b)
 ![mixedResult](https://github.com/user-attachments/assets/a77bfdb1-1c9a-4103-8f20-a29d6787584b)
